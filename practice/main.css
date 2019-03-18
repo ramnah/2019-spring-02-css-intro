@@ -3,11 +3,12 @@ body {
 	color: #333;
 }
 
-p{color: blue;
+p{
+	font-family: serif;
 }
 
 .byline {
-  font-zise: 60px;
+  font-size: 60px;
 }
 
 .subheaders{
