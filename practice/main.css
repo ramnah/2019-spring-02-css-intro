@@ -15,7 +15,8 @@ p{color: blue;
 }
 
 h2 {
-  text-decoration: underline;
+	text-decoration: underline;
 }
-
-<div class="w3-container">
+div {
+		background-color: yellow
+}
