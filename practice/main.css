@@ -28,3 +28,6 @@ h2 {
 ul {
 	list-style: none;
 }
+div {
+	border-bottom: 300px black;
+}
