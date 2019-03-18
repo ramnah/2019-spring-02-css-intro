@@ -25,6 +25,6 @@ h2 {
 		padding: 40px;
 		font-family: sans-serif;
 	}
-div {
-	border-color: yellow;
+ul {
+	list-style: underline;
 }
