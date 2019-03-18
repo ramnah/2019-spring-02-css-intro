@@ -1,0 +1,19 @@
+body {
+	background-color: #DBECFC;
+	color: #333;
+}
+
+p{color: blue;
+}
+
+.byline {
+  font-zise: 60px;
+}
+
+.subheaders{
+  color: blue;
+}
+
+h3 {
+  text-decoration: underline;
+}
