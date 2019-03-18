@@ -17,7 +17,7 @@ p{
 
 h2 {
 	text-decoration: underline;
-	font-variant-caps: normal;
+	font-variant: small-caps;
 }
 	h1 {
 		background-color: yellow;
