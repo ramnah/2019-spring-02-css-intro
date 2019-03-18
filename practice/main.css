@@ -18,9 +18,13 @@ p{
 h2 {
 	text-decoration: underline;
 	font-variant: small-caps;
+	font-family: sans-serif;
 }
 	h1 {
 		background-color: yellow;
 		padding: 40px;
 		font-family: sans-serif;
 	}
+div {
+	border-color: yellow;
+}
